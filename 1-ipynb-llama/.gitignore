@@ -1,0 +1,6 @@
+HF_TOKEN
+tokenizer.json
+*.safetensors
+*.npz
+model/
+.venv
