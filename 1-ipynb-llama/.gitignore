@@ -2,5 +2,6 @@ HF_TOKEN
 tokenizer.json
 *.safetensors
 *.npz
+config.json
 model/
 .venv

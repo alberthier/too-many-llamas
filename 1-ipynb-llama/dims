@@ -1,0 +1,9 @@
+B = batch
+L = input length
+VS = vocambulary size
+D = dim = embedding dimensions
+HD = head_dim = dim // n_heads = embedding dimensions / number of heads = D / n_heads
+HN = heads number
+QHN = query heads number
+KVHN = Key value heads number
+M = max_seq_len = maximum sequence length
